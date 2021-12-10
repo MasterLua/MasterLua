@@ -2,8 +2,8 @@
 
 ## I'm a student Developer !
 
-- 🔭 I’m currently working on a FiveM Framework, New exec FiveM
-- 🌱 I’m currently learning Ruby, C#, HTML/CSS 🤣
+- 🔭 I’m currently working on a FiveM Server named AlteraRP.
+- 🌱 I’m currently learning Network Security 🤣
 ### Connect with me:
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
